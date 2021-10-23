@@ -11,3 +11,119 @@ All emojis consist of official emoji characters, emoji names and meanings listed
 
 The easiest way to quickly **copy and paste emojis**.
 ### List of Food Emojis
+- 🍏 Green Apple
+- 🍎 Red Apple
+- 🍐 Pear
+- 🍊 Tangerine
+- 🍋 Lemon
+- 🍓 Strawberry
+- 🍑 Peach
+- 🍈 Melon
+- 🍉 Watermelon
+- 🍌 Banana
+- 🍇 Grapes
+- 🍒 Cherries
+- 🥭 Mango
+- 🍍 Pineapple
+- 🥝 Kiwi Fruit
+- 🥥 Coconut
+- 🥑 Avocado
+- 🍅 Tomato
+- 🥒 Cucumber
+- 🌶️ Hot Pepper
+- 🍆 Eggplant
+- 🥕 Carrot
+- 🥦 Broccoli
+- 🥬 Leafy Green
+- 🌽 Ear of Corn
+- 🥔 Potato
+- 🧄 Garlic
+- 🧅 Onion
+- 🍄 Mushroom
+- 🌰 Chestnut
+- 🥜 Peanuts
+- 🍠 Roasted Sweet Potato
+- 🥐 Croissant
+- 🥯 Bagel
+- 🍞 Bread
+- 🥖 Baguette Bread
+- 🥨 Pretzel
+- 🧀 Cheese Wedge
+- 🧈 Butter
+- 🥚 Egg
+- 🍳 Cooking
+- 🥞 Pancakes
+- 🧇 Waffle
+- 🥓 Bacon
+- 🥩 Cut of Meat
+- 🍗 Poultry Leg
+- 🍖 Meat on Bone
+- 🦴 Bone
+- 🍟 French Fries
+- 🌭 Hot Dog
+- 🍔 Hamburger
+- 🍕 Pizza
+- 🥪 Sandwich
+- 🥙 Stuffed Flatbread
+- 🌮 Taco
+- 🌯 Burrito
+- 🥗 Green Salad
+- 🧆 Falafel
+- 🥘 Shallow Pan of Food
+- 🥫 Canned Food
+- 🍝 Spaghetti
+- 🍜 Steaming Bowl
+- 🍲 Pot of Food
+- 🍛 Curry Rice
+- 🍣 Sushi
+- 🍱 Bento Box
+- 🥟 Dumpling
+- 🍤 Fried Shrimp
+- 🦪 Oyster
+- 🍙 Rice Ball
+- 🍚 Cooked Rice
+- 🍘 Rice Cracker
+- 🍥 Fish Cake with Swirl
+- 🥠 Fortune Cookie
+- 🥮 Moon Cake
+- 🍢 Oden
+- 🍡 Dango
+- 🍧 Shaved Ice
+- 🍨 Ice Cream
+- 🍦 Soft Ice Cream
+- 🥧 Pie
+- 🧁 Cupcake
+- 🍰 Shortcake
+- 🎂 Birthday Cake
+- 🍮 Custard
+- 🍭 Lollipop
+- 🍬 Candy
+- 🍫 Chocolate Bar
+- 🍿 Popcorn
+- 🍩 Doughnut
+- 🍪 Cookie
+- 🍯 Honey Pot
+- 🥛 Glass of Milk
+- 🍼 Baby Bottle
+- ☕ Hot Beverage
+- 🍵 Teacup Without Handle
+- 🥤 Cup with Straw
+- 🧃 Beverage Box
+- 🧉 Mate
+- 🍶 Sake
+- 🍺 Beer Mug
+- 🍻 Clinking Beer Mugs
+- 🥃 Tumbler Glass
+- 🥂 Clinking Glasses
+- 🍷 Wine Glass
+- 🍸 Cocktail Glass
+- 🍹 Tropical Drink
+- 🍾 Bottle with Popping Cork
+- 🧂 Salt
+- 🧊 Ice
+- 🥣 Bowl with Spoon
+- 🥡 Takeout Box
+- 🥢 Chopsticks
+- 🥄 Spoon
+- 🍴 Fork and Knife
+- 🍽️ Fork and Knife with Plate
